@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kumaran-Ram
 - 👀 I’m interested in Technologies and Coding
-- 🌱 I’m currently learning WebFramework
+- 🌱 I’m currently learning Fullstack Development Tools
 - 💞️ I’m looking to collaborate on Coding in .NET and FrontEnd, Cloud
 - 📫 How to reach me : You can reach me @kumaran.ramarajj1212@gmail.com
 - 😄 Pronouns: He
